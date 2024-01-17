@@ -1,0 +1,25 @@
+{
+  "site": {
+    "title": "My Mini Blog",
+    "subtitle": "A simple blog built with HTML, CSS, and JavaScript",
+    "links": {
+      "github": "https://github.com/yourusername",
+      "twitter": "https://twitter.com/yourusername"
+    },
+    "description": "A minimalist blog showcasing articles and resources."
+  },
+  "articles": [
+    {
+      "title": "Article 1",
+      "date": "2023-03-01",
+      "content": "...",
+      "slug": "article-1"
+    },
+    {
+      "title": "Article 2",
+      "date": "2023-02-15",
+      "content": "...",
+      "slug": "article-2"
+    }
+  ]
+}
