@@ -33,4 +33,4 @@ loadMoreButton.addEventListener('click', async () => {
 
 loadBlogPosts().then((data) => {
     renderBlogPosts(data);
-});
+}); 
